@@ -1,0 +1,40 @@
+.calcBorder {
+    display: block;
+   
+    border: 2px solid, black;
+    background-color: white;
+    width: 350px;
+    height: 300px;
+  }
+  
+  .lblResult{
+    width: 250px;
+    border: 1px solid rgb(212, 206, 206);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
+  .btn {
+    background-color:rgb(212, 206, 206);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    //display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .zero{
+    width: 153px;
+  }
+  
+  .dot{
+    width: 73px;
+  }
